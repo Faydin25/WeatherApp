@@ -1,0 +1,7 @@
+C:\Users\MaxWell\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\MaxWell\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\MaxWell\Desktop\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\MaxWell\Desktop\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\MaxWell\Desktop\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\MaxWell\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\MaxWell\Desktop\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
